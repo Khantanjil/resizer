@@ -1,2 +1,2 @@
 # resizer
-Python script which resize the image
+Python Script that resizes all images in a directory.
